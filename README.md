@@ -15,7 +15,7 @@
 
 ## 👀 About Me
 
-Cloud Engineer with **production AWS EKS experience at Juspay**, one of India's largest fintech payment platforms. I know my way around **cloud infrastructure, backend systems, and applied AI** — and I bring all of it to the table on day one.
+Cloud Engineer with **production AWS EKS experience**. I know my way around **cloud infrastructure, backend systems, and applied AI** — and I bring all of it to the table on day one.
 
 I have a strong, active pull toward **AI, DevOps, and coding** — it's what I spend my free time building in, not just my job description. I use AI coding tools (Cursor, Copilot, Claude) daily, I'm deep in Kubernetes/Terraform/CI-CD on the DevOps side, and I ship real code (Python, Django, FastAPI) to back it all up.
 
