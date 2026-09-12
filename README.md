@@ -2,7 +2,7 @@
 <h3 align="center">Cloud Engineer · Backend Engineer · Applied AI Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Production+AWS+EKS+at+a+major+fintech+payments+platform;Backend+%2B+distributed+systems+in+Python;Shipping+applied-AI+%2F+RAG+tools+with+FastAPI+%2B+LLMs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Production+AWS+EKS+experience;Backend+%2B+distributed+systems+in+Python;Shipping+applied-AI+%2F+RAG+tools+with+FastAPI+%2B+LLMs" alt="Typing SVG" />
 </p>
 
 <p align="center">
